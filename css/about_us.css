@@ -1,0 +1,6 @@
+section{
+	height: 300px;
+}
+section:nth-of-type(2n+1){
+	background-color: deepskyblue;
+}
